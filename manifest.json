@@ -1,3 +1,6 @@
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0a7cff">
+
 {
   "name": "Cat Voice Assistant",
   "short_name": "Cat",
